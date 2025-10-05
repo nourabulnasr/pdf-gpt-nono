@@ -1,4 +1,4 @@
-# 📘 AI PDF Chatbot – Built by Nounie
+# 📘 AI PDF Chatbot – Built by Nour
 
 > A Streamlit web app that lets you upload any PDF and chat with it — powered by LangChain, FAISS, and OpenAI GPT models.
 
